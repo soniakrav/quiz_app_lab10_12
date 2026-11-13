@@ -1,0 +1,12 @@
+{
+    "questions_file": "data/questions.json",
+    "category": "Бібліотеки Python",
+    "questions_count": 6,
+    "time_limit_seconds": 100,
+    "shuffle_questions": false,
+    "shuffle_answers": false,
+    "show_feedback": true,
+    "pass_percent": 60,
+    "results_dir": "results",
+    "student_name": "Валентина"
+}

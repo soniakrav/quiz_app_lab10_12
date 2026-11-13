@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "date": "2026-11-13 13:20:30",
+    "student": "Валентина",
+    "total": 5,
+    "correct": 0,
+    "percent": 0.0,
+    "duration_sec": 24.8,
+    "passed": 0
+  },
+  "answers": [
+    {
+      "date": "2026-11-13 13:20:30",
+      "student": "Валентина",
+      "category": "Бібліотеки Python",
+      "question": "Яка бібліотека для створення графічного інтерфейсу входить до стандартної поставки Python?",
+      "selected": "numpy",
+      "correct_answer": "tkinter",
+      "is_correct": 0,
+      "time_spent": 11.0
+    },
+    {
+      "date": "2026-11-13 13:20:30",
+      "student": "Валентина",
+      "category": "Бібліотеки Python",
+      "question": "Для чого насамперед використовується pandas?",
+      "selected": "Для шифрування файлів",
+      "correct_answer": "Для обробки й аналізу табличних даних",
+      "is_correct": 0,
+      "time_spent": 1.6
+    },
+    {
+      "date": "2026-11-13 13:20:30",
+      "student": "Валентина",
+      "category": "Бібліотеки Python",
+      "question": "Яка бібліотека найчастіше використовується для побудови графіків?",
+      "selected": "random",
+      "correct_answer": "matplotlib",
+      "is_correct": 0,
+      "time_spent": 4.5
+    },
+    {
+      "date": "2026-11-13 13:20:30",
+      "student": "Валентина",
+      "category": "Бібліотеки Python",
+      "question": "Який модуль стандартної бібліотеки працює з форматом JSON?",
+      "selected": "csvjson",
+      "correct_answer": "json",
+      "is_correct": 0,
+      "time_spent": 1.5
+    },
+    {
+      "date": "2026-11-13 13:20:30",
+      "student": "Валентина",
+      "category": "Бібліотеки Python",
+      "question": "Що робить функція random.shuffle(lst)?",
+      "selected": "Розвертає список у зворотному порядку",
+      "correct_answer": "Перемішує елементи списку на місці",
+      "is_correct": 0,
+      "time_spent": 1.5
+    }
+  ]
+}

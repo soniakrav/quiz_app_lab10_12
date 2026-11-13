@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "date": "2026-11-13 12:41:03",
+    "student": "Софія",
+    "total": 7,
+    "correct": 6,
+    "percent": 85.7,
+    "duration_sec": 89.4,
+    "passed": 1
+  },
+  "answers": [
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Яка з цих структур даних є незмінною (immutable)?",
+      "selected": "tuple",
+      "correct_answer": "tuple",
+      "is_correct": 1,
+      "time_spent": 12.0
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Чому дорівнює 7 // 2?",
+      "selected": "3",
+      "correct_answer": "3",
+      "is_correct": 1,
+      "time_spent": 11.1
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Яке ключове слово використовують для оголошення функції?",
+      "selected": "def",
+      "correct_answer": "def",
+      "is_correct": 1,
+      "time_spent": 13.5
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Який тип матиме результат виразу 3 / 2 у Python?",
+      "selected": "float",
+      "correct_answer": "float",
+      "is_correct": 1,
+      "time_spent": 10.1
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Як правильно перехопити помилку ділення на нуль?",
+      "selected": "try ... except ZeroDivisionError",
+      "correct_answer": "try ... except ZeroDivisionError",
+      "is_correct": 1,
+      "time_spent": 10.2
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Що поверне bool([])?",
+      "selected": "True",
+      "correct_answer": "False",
+      "is_correct": 0,
+      "time_spent": 8.8
+    },
+    {
+      "date": "2026-11-13 12:41:03",
+      "student": "Софія",
+      "category": "Основи Python",
+      "question": "Що виведе print(len(\"Привіт\"))?",
+      "selected": "6",
+      "correct_answer": "6",
+      "is_correct": 1,
+      "time_spent": 11.1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "date": "2026-11-13 13:09:55",
+    "student": "Антон",
+    "total": 7,
+    "correct": 6,
+    "percent": 85.7,
+    "duration_sec": 207.5,
+    "passed": 1
+  },
+  "answers": [
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Який тип матиме результат виразу 3 / 2 у Python?",
+      "selected": "float",
+      "correct_answer": "float",
+      "is_correct": 1,
+      "time_spent": 52.1
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Чому дорівнює 7 // 2?",
+      "selected": "4",
+      "correct_answer": "3",
+      "is_correct": 0,
+      "time_spent": 21.3
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Яка з цих структур даних є незмінною (immutable)?",
+      "selected": "tuple",
+      "correct_answer": "tuple",
+      "is_correct": 1,
+      "time_spent": 12.1
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Що виведе print(len(\"Привіт\"))?",
+      "selected": "6",
+      "correct_answer": "6",
+      "is_correct": 1,
+      "time_spent": 5.8
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Яке ключове слово використовують для оголошення функції?",
+      "selected": "def",
+      "correct_answer": "def",
+      "is_correct": 1,
+      "time_spent": 5.7
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Як правильно перехопити помилку ділення на нуль?",
+      "selected": "try ... except ZeroDivisionError",
+      "correct_answer": "try ... except ZeroDivisionError",
+      "is_correct": 1,
+      "time_spent": 5.4
+    },
+    {
+      "date": "2026-11-13 13:09:55",
+      "student": "Антон",
+      "category": "Основи Python",
+      "question": "Що поверне bool([])?",
+      "selected": "False",
+      "correct_answer": "False",
+      "is_correct": 1,
+      "time_spent": 5.9
+    }
+  ]
+}

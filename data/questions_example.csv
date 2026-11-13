@@ -1,0 +1,4 @@
+﻿question,option1,option2,option3,option4,correct,category,explanation
+Яка команда встановлює бібліотеку pandas?,pip install pandas,pip get pandas,python install pandas,,1,Бібліотеки Python,Пакети встановлюються менеджером pip.
+Який оператор повертає остачу від ділення?,//,%,/,**,2,Основи Python,Оператор % повертає остачу.
+Яким методом можна додати пару ключ-значення до словника?,"d.append(k, v)","d.push(k, v)",d[k] = v,,3,Основи Python,Присвоєння за ключем додає або змінює запис.
